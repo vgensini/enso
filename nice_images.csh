@@ -1,0 +1,42 @@
+convert 1979.png -trim +repage -bordercolor white -border 30 1979.png &
+convert 1980.png -trim +repage -bordercolor white -border 30 1980.png &
+convert 1981.png -trim +repage -bordercolor white -border 30 1981.png &
+convert 1982.png -trim +repage -bordercolor white -border 30 1982.png &
+convert 1983.png -trim +repage -bordercolor white -border 30 1983.png &
+convert 1984.png -trim +repage -bordercolor white -border 30 1984.png &
+convert 1985.png -trim +repage -bordercolor white -border 30 1985.png &
+convert 1986.png -trim +repage -bordercolor white -border 30 1986.png &
+convert 1987.png -trim +repage -bordercolor white -border 30 1987.png &
+convert 1988.png -trim +repage -bordercolor white -border 30 1988.png &
+convert 1989.png -trim +repage -bordercolor white -border 30 1989.png &
+convert 1990.png -trim +repage -bordercolor white -border 30 1990.png & 
+convert 1991.png -trim +repage -bordercolor white -border 30 1991.png &
+convert 1992.png -trim +repage -bordercolor white -border 30 1992.png &
+convert 1993.png -trim +repage -bordercolor white -border 30 1993.png &
+convert 1994.png -trim +repage -bordercolor white -border 30 1994.png &
+convert 1995.png -trim +repage -bordercolor white -border 30 1995.png &
+convert 1996.png -trim +repage -bordercolor white -border 30 1996.png &
+convert 1997.png -trim +repage -bordercolor white -border 30 1997.png &
+convert 1998.png -trim +repage -bordercolor white -border 30 1998.png &
+convert 1999.png -trim +repage -bordercolor white -border 30 1999.png &
+convert 2000.png -trim +repage -bordercolor white -border 30 2000.png &
+convert 2001.png -trim +repage -bordercolor white -border 30 2001.png &
+convert 2002.png -trim +repage -bordercolor white -border 30 2002.png &
+convert 2003.png -trim +repage -bordercolor white -border 30 2003.png &
+convert 2004.png -trim +repage -bordercolor white -border 30 2004.png &
+convert 2005.png -trim +repage -bordercolor white -border 30 2005.png &
+convert 2006.png -trim +repage -bordercolor white -border 30 2006.png &
+convert 2007.png -trim +repage -bordercolor white -border 30 2007.png &
+convert 2008.png -trim +repage -bordercolor white -border 30 2008.png &
+convert 2009.png -trim +repage -bordercolor white -border 30 2009.png &
+convert 2010.png -trim +repage -bordercolor white -border 30 2010.png &
+convert 2011.png -trim +repage -bordercolor white -border 30 2011.png &
+convert 2012.png -trim +repage -bordercolor white -border 30 2012.png &
+convert 2013.png -trim +repage -bordercolor white -border 30 2013.png &
+convert 2014.png -trim +repage -bordercolor white -border 30 2014.png &
+convert 2015.png -trim +repage -bordercolor white -border 30 2015.png &
+convert 2016.png -trim +repage -bordercolor white -border 30 2016.png &
+convert 2017.png -trim +repage -bordercolor white -border 30 2017.png &
+wait
+exit
+
